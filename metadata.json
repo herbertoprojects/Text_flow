@@ -1,0 +1,6 @@
+{
+  "name": "TextFlow - Gestor de Textos e Estados",
+  "description": "Aplicação de gestão de escrita e revisão de textos por linhas com estados customizados RGB, paginação de 500 linhas, edição por intervalo, backups diários automáticos e integração com servidor Hub (portas 80/443).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,177 @@
+{
+  "id": "proj_demo_01",
+  "name": "Conto de Exemplo - Revisão de Tradução",
+  "description": "Projeto demonstrativo de teste com linhas e estados RGB.",
+  "createdAt": "2026-09-28T10:44:15.526Z",
+  "updatedAt": "2026-09-28T10:44:15.555Z",
+  "statuses": [
+    {
+      "id": 0,
+      "name": "Inicial (Sem alteração)",
+      "color": "#ffffff",
+      "textColor": "#0f172a"
+    },
+    {
+      "id": 1,
+      "name": "Em Revisão",
+      "color": "#fef08a",
+      "textColor": "#713f12"
+    },
+    {
+      "id": 2,
+      "name": "Aprovado / Final",
+      "color": "#bbf7d0",
+      "textColor": "#14532d"
+    },
+    {
+      "id": 3,
+      "name": "Dúvida de Tradução",
+      "color": "#fed7aa",
+      "textColor": "#7c2d12"
+    },
+    {
+      "id": 4,
+      "name": "Corrigir Sintaxe",
+      "color": "#fecdd3",
+      "textColor": "#881337"
+    }
+  ],
+  "lines": [
+    {
+      "text": "CAPÍTULO I — O DESPERTAR NA COLINA",
+      "status": 2
+    },
+    {
+      "text": "",
+      "status": 0
+    },
+    {
+      "text": "A névoa matinal cobria os pinhais como um manto prateado e silencioso.",
+      "status": 2
+    },
+    {
+      "text": "Lucas ajustou a mochila de couro aos ombros e olhou para o vale distante.",
+      "status": 2
+    },
+    {
+      "text": "O relógio da torre central começou a soar seis badaladas graves.",
+      "status": 1
+    },
+    {
+      "text": "Cada nota vibrava no ar frio de outono, ecoando pelas pedras da muralha.",
+      "status": 1
+    },
+    {
+      "text": "Ele sabia que aquela seria a sua última oportunidade de cruzar a fronteira.",
+      "status": 0
+    },
+    {
+      "text": "Nos bolsos levava apenas uma bússola de latão e um bilhete escrito à pressa.",
+      "status": 3
+    },
+    {
+      "text": "\"Encontra o barqueiro no ancoradouro sul antes que a maré alta desapareça.\"",
+      "status": 3
+    },
+    {
+      "text": "As palavras pareciam queimar através do papel fino.",
+      "status": 0
+    },
+    {
+      "text": "",
+      "status": 0
+    },
+    {
+      "text": "CAPÍTULO II — O CAMINHO DA FLORESTA",
+      "status": 0
+    },
+    {
+      "text": "",
+      "status": 0
+    },
+    {
+      "text": "Os passos nas folhas húmidas faziam um estalido contínuo e compassado.",
+      "status": 1
+    },
+    {
+      "text": "À esquerda, o riacho corria com vigor renovado pelas chuvas recentes.",
+      "status": 1
+    },
+    {
+      "text": "Um corvo levantou voo de um carvalho secular, quebrando o silêncio.",
+      "status": 0
+    },
+    {
+      "text": "Lucas parou instantaneamente, agachando-se atrás de um rochedo coberto de musgo.",
+      "status": 4
+    },
+    {
+      "text": "Dois guardas da patrulha florestal conversavam em voz baixa na encruzilhada.",
+      "status": 4
+    },
+    {
+      "text": "Um deles segurava uma lanterna apagada; o outro examinava marcas no solo.",
+      "status": 1
+    },
+    {
+      "text": "O tempo parecia suspenso enquanto os dois homens decidiam o rumo a tomar.",
+      "status": 0
+    },
+    {
+      "text": "Finalmente, seguiram pelo trilho que subia para a torre de vigia.",
+      "status": 2
+    },
+    {
+      "text": "O rapaz soltou o ar que prendia nos pulmões e retomou a descida cautelosa.",
+      "status": 2
+    },
+    {
+      "text": "",
+      "status": 0
+    },
+    {
+      "text": "CAPÍTULO III — O ENCONTRO NO CAIS",
+      "status": 0
+    },
+    {
+      "text": "",
+      "status": 0
+    },
+    {
+      "text": "O cheiro a salitre e a madeira molhada anunciou a proximidade do estuário.",
+      "status": 0
+    },
+    {
+      "text": "No cais de tábuas escuras balouçava uma pequena traineira verde-escura.",
+      "status": 1
+    },
+    {
+      "text": "Um vulto encapuzado fumava um cachimbo encostado a um poste de amarração.",
+      "status": 3
+    },
+    {
+      "text": "— É o Lucas? — perguntou uma voz rouca e habituada aos ventos marítimos.",
+      "status": 3
+    },
+    {
+      "text": "— Trago a mensagem da Colina do Norte — respondeu ele, mostrando o bilhete.",
+      "status": 2
+    },
+    {
+      "text": "O homem assentiu com um aceno curto e estendeu uma mão calejada.",
+      "status": 2
+    },
+    {
+      "text": "— Sobe a bordo. A maré não espera por fugitivos nem por sonhadores.",
+      "status": 2
+    },
+    {
+      "text": "Com um impulso firme, o barco afastou-se das estacas de madeira carcomida.",
+      "status": 2
+    },
+    {
+      "text": "Para trás ficavam as colinas sombrias; em frente, o horizonte infindo.",
+      "status": 2
+    }
+  ]
+}
